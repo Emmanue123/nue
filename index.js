@@ -1,4 +1,3 @@
-
 class SentenceAnalyzer {
      static voidmain(String) {
         Scanner = new Scanner(System.in);
